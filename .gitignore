@@ -45,4 +45,4 @@ storybook-static
 .temp
 .tmp
 .cache
-*.jpg
+# *.jpg
