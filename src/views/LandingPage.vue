@@ -168,7 +168,7 @@ import SpecificationsSection from '../components/SpecificationsSection.vue'
 import CompanySection from '../components/CompanySection.vue'
 import TestimonialsSection from '../components/TestimonialsSection.vue'
 import FaqSection from '../components/FaqSection.vue'
-import CTASection from '../components/CTASection.vue'
+import CTASection from '../components/CtaSection.vue'
 import FooterSection from '../components/FooterSection.vue'
 
 export default {
